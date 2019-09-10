@@ -5,16 +5,16 @@ This is for class
 
 
 Game Title
-The name of the game, subtitle, and the url or information on how to find the game.
+Small Saga,https://sketchylogic.itch.io/small-saga.
 
 ### Rating
-Insert your rating system. Example: I rate games from 1 to 5 stars and I give this game a 3 star rating.
+I rate games from 1 to 5 Dank Memes and I give this game a 3 Dank Memes rating.
 
 ## Summary
-This game is about... this should be at least 3-4 paragraphs summarising the gameplay mechanics of the game. You should be answering the who, what, when, where, why, and how of the game itself.
+The game is about two mouses that are brothers and they are advandeing in the sewers. The gameplay mechanics are the arrows keys to move, Z and X keys to select and to confirm it. The mouse is to use in the combat phase. The who is are the two mouse brothers name Verm and Lance. What is they are traving in the sewers. When I guess is in the modern times. They are in London, United Kingdom. Why is so that they can get a lot of food.
 
 ## Final Thoughts
-I like this about the game but didn't like this particular feature. This should be at a minimum of one paragraph.
+I like this game because it is a game about two mouses and I dont really play a lot of rpg games. The only thing bad about this is that the game is short. They are still in devlopment of this game.
 
 ## Additional Information
-Links to other reviews or other information you used in this review.
+The information I used are from the game in this review.
