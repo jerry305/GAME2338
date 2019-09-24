@@ -11,9 +11,10 @@ This is for class
 Grand Theft Auto 5. It is in Steam and on the Xbox store.
 
 ### Rating
-I rate games from 4.5 to 5 stars and I give this game a 3 star rating.
+I rate games from 1 to 5 Dank Memes and I give this game a 4.5 Dank Memes rating.
 
 ## Summary
+
 This game is about... this should be at least 3-4 paragraphs summarising the gameplay mechanics of the game. You should be answering the who, what, when, where, why, and how of the game itself.
 
 ## Final Thoughts
