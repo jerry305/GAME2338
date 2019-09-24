@@ -14,7 +14,7 @@ Grand Theft Auto 5. It is in Steam and on the Xbox store.
 I rate games from 1 to 5 Dank Memes and I give this game a 4.5 Dank Memes rating.
 
 ## Summary
-Grand Theft Auto 5 is an open world action adventure. It is mosly famous for its custom and regluar races. It depands on what sysetm you use to play gta5 i played it on the Xbox One. 
+Grand Theft Auto 5 is an open world action adventure. It is mosly famous for its custom and regluar races. It depands on what sysetm you use to play gta5 i played it on the Xbox One. The right trigger is to move forward, the left trigger is to go back, left stick is to steer the car, A is handbreak, and the right stick is to look around your suroundings.
 
 This game is about... this should be at least 3-4 paragraphs summarising the gameplay mechanics of the game. You should be answering the who, what, when, where, why, and how of the game itself.
 
