@@ -20,4 +20,4 @@ The who in this game are the mario characters from nintendo. The what is a famil
 I like about the game is that you can player with other people. The one thing that I like about the game is you can take away a player star from them and it can help you win the game. The one thing I dislike about the game is the one thing I like is you can take away a player star. But, it makes the game fun to play.
 
 ## Additional Information
-Links to other reviews or other information you used in this review.
+The game itself.
