@@ -1,5 +1,4 @@
-1. Is the first thing they do is to test game to see if its start when you turn it on and also to see if you click on single player and
-the manu for it pops up.
+1. Is the first thing they do is to test game to see if its start when you turn it on and also to see if you click on single player or muiltplayer the manu for it pops up.
 2. They spent the first two hours on what I said in number 1
 3. After that they spent hours on the game to see if certain thing in the game works.
 4. Fix the bugs that the devolpers have in the build that they send to the test team.
