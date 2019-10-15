@@ -3,7 +3,7 @@
 
 * Game Publisher:1C Company, DMM Games, 1C Entertainment
 * Game Rating: M
-* [Game Title Website](https://store.steampowered.com/app/620590/)
+* [https://store.steampowered.com/app/620590/]
 
 **Question:** During your playtesting where the rules of the game understandable? If not, what was not clear.
 > _Answer:_ During the playtest the rules of the game were clear. You get the option to change the game mode for it. To annilhilation where you have to destory the enemy base and domination is where their is a score count to win the game. You understand that you will need resources to build stuff and to make troops.
