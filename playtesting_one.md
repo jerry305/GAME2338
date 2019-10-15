@@ -1,9 +1,9 @@
 
-# Playtest for [Game Title]
+# Playtest for [Ancestors Legacy]
 
-* Game Publisher
-* Game Rating
-* [Game Title Website](http://example.com)
+* Game Publisher:1C Company, DMM Games, 1C Entertainment
+* Game Rating: M
+* [Game Title Website](https://store.steampowered.com/app/620590/)
 
 **Question:** During your playtesting where the rules of the game understandable? If not, what was not clear.
 > _Answer:_ Your answer here
