@@ -12,7 +12,7 @@
 > _Answer:_ Their was nothing wrong or that shouldn't be in the game or needed to be remove. What the game has its fine the way it is. If you did take away something for the game you will see it will effect the game.
 
 **Question:** Is this game balanced? If not, what is the target audience for this game based on that imbalance?
-> _Answer:_ Your answer here
+> _Answer:_ The balance of this game is in the middle. It is easy from almost anyone to pick it up and play it. You have 4 factions or 5 with the dlc to play as. They have thier own pros and cons to when you pick them. I say the target audience for this game mid teens and adults.
 
 **Question:** Does the timing of this game appear to be about right for this type of game?
 > _Answer:_ Your answer here
