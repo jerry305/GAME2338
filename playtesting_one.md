@@ -24,4 +24,4 @@
 > _Answer:_ I did have fun with this game. I have added over 26 hours of gameplay to this game. The campaign of this game is great with different stories to play as. You can play skirmish mode and change the game mode. You can also play mulitplayer against other players.
 
 **Question:** During gameplay what problems or issues seemed to happen and how did you get them to reoccur?
-> _Answer:_ Your answer here
+> _Answer:_ During my gameplay I didn't ran to any problems or any issues. The gameplay went smoothly and with no problems at all.
