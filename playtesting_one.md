@@ -1,18 +1,18 @@
 
-# Playtest for [Ancestors Legacy]
+# Playtest for [ShellShock Live]
 
-* Game Publisher:1C Company, DMM Games, 1C Entertainment
-* Game Rating: M
-* [https://store.steampowered.com/app/620590/]
+* Game Publisher: kChamp Games
+* Game Rating: E
+* [https://store.steampowered.com/app/326460/]
 
 **Question:** During your playtesting where the rules of the game understandable? If not, what was not clear.
-> _Answer:_ During the playtest the rules of the game were clear. You get the option to change the game mode for it. To annilhilation where you have to destory the enemy base and domination is where their is a score count to win the game. You understand that you will need resources to build stuff and to make troops.
+> _Answer:_ During the playtest the rules of the game were clear. You get the option to change the shots type you get to pick. You have different game modes you can play. The most I think players play is team deathmatch. You can add wind to the game to make it fun.
 
 **Question:** During gameplay did you notice anything that shouldn't be in the game or could be removed and it wouldn't effect game play?
 > _Answer:_ Their was nothing wrong or that shouldn't be in the game or needed to be remove. What the game has its fine the way it is. If you did take away something for the game you will see it will effect the game.
 
 **Question:** Is this game balanced? If not, what is the target audience for this game based on that imbalance?
-> _Answer:_ The balance of this game is in the middle. It is easy from almost anyone to pick it up and play it. You have 4 factions or 5 with the dlc to play as. They have thier own pros and cons to when you pick them. I say the target audience for this game mid teens and adults.
+> _Answer:_ The balance of this game is in the middle. It is easy from almost anyone to pick it up and play it. You play with different players with bad or good skills. I say the target audience for this game mid kids, teens, and adults.
 
 **Question:** Does the timing of this game appear to be about right for this type of game?
 > _Answer:_ The timing of this game does appear to be right type for this game. 
