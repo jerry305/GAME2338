@@ -11,6 +11,9 @@ https://apps.apple.com/us/app/hungry-shark-evolution/id535500008
 Example: I rate games from 1 to 5 Dank Memes and I give this game a 3.1 star rating.
 
 ## Summary
+
+This game is about a shark thats kills and eats the people you killed. You get to kill other sea animals and then humans. The shark has a food bar and the only way to stay full is to eat the human and the other animals. It also keep track of how long you live in the game.  You also get to pick which shark you want to be as. Some sea animals which you canot eat and some bigger fish is there to. 
+
 This game is about... this should be at least 3-4 paragraphs summarising the gameplay mechanics of the game. You should be answering the who, what, when, where, why, and how of the game itself.
 
 ## Final Thoughts
