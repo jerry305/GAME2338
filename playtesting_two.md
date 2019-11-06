@@ -1,9 +1,9 @@
 
-# Playtest for [Game Title]
+# Playtest for [Star Wars Empire at War: Gold Pack]
 
-* Game Publisher
-* Game Rating
-* [Game Title Website](http://example.com)
+* Game Publisher: Petroglyph
+* Game Rating: Teen
+* [https://store.steampowered.com/app/32470](http://example.com)
 
 **Question:** During your playtesting where the rules of the game understandable? If not, what was not clear.
 > _Answer:_ Your answer here
