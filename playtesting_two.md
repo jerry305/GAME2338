@@ -6,13 +6,13 @@
 * [https://store.steampowered.com/app/32470](http://example.com)
 
 **Question:** During your playtesting where the rules of the game understandable? If not, what was not clear.
-> _Answer:_ Your answer here
+> _Answer:_ During the playtest the rule for this game are understandable. Build up your forces and defeat your enemy.
 
 **Question:** During gameplay did you notice anything that shouldn't be in the game or could be removed and it wouldn't effect game play?
-> _Answer:_ Your answer here
+> _Answer:_ I did not notice anything that should be romove from the game. The things in the game are find where they are.
 
 **Question:** Is this game balanced? If not, what is the target audience for this game based on that imbalance?
-> _Answer:_ Your answer here
+> _Answer:_ The game is balanced if you know what you are doing in the game. 
 
 **Question:** Does the timing of this game appear to be about right for this type of game?
 > _Answer:_ Your answer here
