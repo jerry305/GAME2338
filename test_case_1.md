@@ -26,11 +26,11 @@
 ## Test Steps: 
 | # | Description | Expected Result | Check (√) |
 | --- | --- | --- | --- |
-| 1 | | | |			
-| 2 | | | |			
-| 3 | | | |			
-| 4 | | | |			
-| 5 | | | |			
+| 1 | Turn on the game| yes|(√) |			
+| 2 | Put the game in the switch| yes| (√)|			
+| 3 | Go to the part to start the match of the AI players| yes| (√)|			
+| 4 | Put the amount of palyer I need| yes| (√)|			
+| 5 | Game starts for 20 mins and they battle it out| yes | (√)|			
 | 6 | | | |			
 | 7 | | | |			
 | 8 | | | |			
