@@ -4,15 +4,15 @@
 ## Test Details
 
 * Test Case ID:
-  * #Number
+  * #0002
 * Test Case Name:
-  * #Number
+  * max players and less items on.
 * Component: 
-  * Description
+  * Number of players and items
 * Test Case Designer:
-  * Name
+  * Jerry Castaneda
 * Creation Date:
-  * Date
+  * 11/7/2019
 * Modified By:
   * Name
 * Modified Date:
@@ -20,14 +20,14 @@
 * Requirements Covered:
   * Description
 * Test Description/Purpose:
-  * Description
+  * Test to see how the AIs are with less items in the game to be drop and use by them.
 * Pre-Test Conditions:
-  * Description
+  * Be in the game and to watch them how they play out
 ## Test Steps: 
 | # | Description | Expected Result | Check (√) |
 | --- | --- | --- | --- |
-| 1 | | | |			
-| 2 | | | |			
+| 1 | Set the number of players in| all eigth players in| (√)|			
+| 2 | Set the items to less to be drop| less items are drop | (√)|			
 | 3 | | | |			
 | 4 | | | |			
 | 5 | | | |			
@@ -44,7 +44,7 @@
 ## Run History:
 | # |	Run Date |	Run By |	Results |
 | --- | --- | --- | --- |
-| 1 | | | |			
+| 1 | 11/7/2019| | |			
 | 2 | | | |			
 | 3 | | | |			
 
