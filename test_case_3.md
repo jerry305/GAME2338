@@ -22,12 +22,12 @@
 * Test Description/Purpose:
   * Test to see how the AIs play with no items on and all one character
 * Pre-Test Conditions:
-  * Description
+  * To be in the game and to see how the AIs play out the game without the items to help them kill faster.
 ## Test Steps: 
 | # | Description | Expected Result | Check (√) |
 | --- | --- | --- | --- |
-| 1 | | | |			
-| 2 | | | |			
+| 1 | Set items to none| No items were drop during the game| (√)|			
+| 2 | How long it takes to kill| Takes some time to kill| (√)|			
 | 3 | | | |			
 | 4 | | | |			
 | 5 | | | |			
