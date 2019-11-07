@@ -4,9 +4,9 @@
 ## Test Details
 
 * Test Case ID:
-  * 001
+  * 0001
 * Test Case Name:
-  * 001_Max players and items
+  * Max players and items
 * Component: 
   * Setting up the game where the max numbers of players are in the game and the items are high.
 * Test Case Designer:
@@ -26,11 +26,11 @@
 ## Test Steps: 
 | # | Description | Expected Result | Check (√) |
 | --- | --- | --- | --- |
-| 1 | Turn on the game| yes|(√) |			
-| 2 | Put the game in the switch| yes| (√)|			
-| 3 | Go to the part to start the match of the AI players| yes| (√)|			
-| 4 | Put the amount of palyer I need| yes| (√)|			
-| 5 | Game starts for 20 mins and they battle it out| yes | (√)|			
+| 1 | Turn on the switch| switch turn on|(√) |			
+| 2 | Put the game in the switch and turn game on| game turn on| (√)|			
+| 3 | Go to the part to start the match of the AI players| when to the start and put AIs in| (√)|			
+| 4 | Put the amount of palyer I need| all eight players added| (√)|			
+| 5 | Game starts for 20 mins and they battle it out| game start and they battle it out | (√)|			
 | 6 | | | |			
 | 7 | | | |			
 | 8 | | | |			
