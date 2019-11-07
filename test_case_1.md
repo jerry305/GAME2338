@@ -4,23 +4,23 @@
 ## Test Details
 
 * Test Case ID:
-  * #Number
+  * 001
 * Test Case Name:
-  * #Number
+  * 001_Max players and items
 * Component: 
-  * Description
+  * Setting up the game where the max numbers of players are in the game and the items are high.
 * Test Case Designer:
-  * Name
+  * Jerry Castaneda
 * Creation Date:
-  * Date
+  * 10/22/2019
 * Modified By:
   * Name
 * Modified Date:
   * Date
 * Requirements Covered:
-  * Description
+  * The switch and the game
 * Test Description/Purpose:
-  * Description
+  * Setting up the game where the max numbers of players are in the game and the items are high.
 * Pre-Test Conditions:
   * Description
 ## Test Steps: 
