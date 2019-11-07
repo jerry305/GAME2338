@@ -22,7 +22,7 @@
 * Test Description/Purpose:
   * Setting up the game where the max numbers of players are in the game and the items are high.
 * Pre-Test Conditions:
-  * Description
+  * Be in the game and to see what happens in the game as the AIs battle each other.
 ## Test Steps: 
 | # | Description | Expected Result | Check (√) |
 | --- | --- | --- | --- |
