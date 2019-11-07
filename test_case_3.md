@@ -4,15 +4,15 @@
 ## Test Details
 
 * Test Case ID:
-  * #Number
+  * #0003
 * Test Case Name:
-  * #Number
+  * Max players and no items drop
 * Component: 
   * Description
 * Test Case Designer:
-  * Name
+  * Jerry Castaneda
 * Creation Date:
-  * Date
+  * 11/7/2019
 * Modified By:
   * Name
 * Modified Date:
@@ -20,7 +20,7 @@
 * Requirements Covered:
   * Description
 * Test Description/Purpose:
-  * Description
+  * Test to see how the AIs play with no items on and all one character
 * Pre-Test Conditions:
   * Description
 ## Test Steps: 
