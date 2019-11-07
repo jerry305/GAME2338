@@ -44,6 +44,6 @@
 ## Run History:
 | # |	Run Date |	Run By |	Results |
 | --- | --- | --- | --- |
-| 1 | | | |			
-| 2 | | | |			
+| 1 |10/22/2019 |Jerry C | Good|			
+| 2 |10/22/2019 |Jerry C | Good|			
 | 3 | | | |			
