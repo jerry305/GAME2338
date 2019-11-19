@@ -25,9 +25,9 @@
 ## Test Steps: 
 | # | Description | Expected Result | Check (√) |
 | --- | --- | --- | --- |
-| 1 | | | |			
-| 2 | | | |			
-| 3 | | | |			
+| 1 | Change FS Meter on| The FS meter got full and the character use it| √|			
+| 2 | Change the spirits on| Im not sure how it work| ?|			
+| 3 | The AI players played| They attack each other| √|			
 | 4 | | | |			
 | 5 | | | |			
 | 6 | | | |			
@@ -37,12 +37,12 @@
 | 10 | | | |			
 
 ## Overall Test Status:
-
+The game went well with the changes in the settings
 
 
 ## Run History:
 | # |	Run Date |	Run By |	Results |
 | --- | --- | --- | --- |
-| 1 | | | |			
+| 1 | 11/19/2019| Jerry Castaneda| √|			
 | 2 | | | |			
 | 3 | | | |			
