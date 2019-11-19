@@ -3,25 +3,25 @@
 ## Test Details
 
 * Test Case ID:
-  * #Number
+  * #1004
 * Test Case Name:
-  * #Number
+  * max players and we some setting changes 
 * Component: 
   * Description
 * Test Case Designer:
-  * Name
+  * Jerry Castaneda
 * Creation Date:
-  * Date
+  * 11/19/2019
 * Modified By:
   * Name
 * Modified Date:
   * Date
 * Requirements Covered:
-  * Description
+  * The game
 * Test Description/Purpose:
-  * Description
+  * To test the game with all eight players and some setting changes to it
 * Pre-Test Conditions:
-  * Description
+  * To see what happen to game when its playing
 ## Test Steps: 
 | # | Description | Expected Result | Check (√) |
 | --- | --- | --- | --- |
